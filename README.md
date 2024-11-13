@@ -1,4 +1,3 @@
-
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +14,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f9;
-            color: #333;
+            color: #332;
         }
         /* Estilo do cabeçalho */
         header {
