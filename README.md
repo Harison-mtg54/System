@@ -31,10 +31,15 @@
         /* Estilo do menu de navegação */
         nav ul {
             list-style: none;
-            padding: 0;
+            /*padding: 0;*/
             text-align: center;
             background-color: #333;
-            margin-top: 20px;
+            /*margin-top: 20px;*/
+                padding: 20px;
+            margin: 20px;
+            /**/
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         nav ul li {
             display: inline;
