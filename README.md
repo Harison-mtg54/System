@@ -77,7 +77,8 @@
             padding: 10px;
             background-color: #333;
             color: white;
-            margin-top: 40px;
+            margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
